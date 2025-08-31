@@ -1,5 +1,6 @@
 pickle-mixin==1.0.2
 streamlit
+streamlit-option-menu
 scikit-learn
 pandas
 numpy
